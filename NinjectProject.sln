@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectProject", "NinjectProject\NinjectProject.csproj", "{665E850C-5A5C-4C8B-A1C4-93F653A7646E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665E850C-5A5C-4C8B-A1C4-93F653A7646E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665E850C-5A5C-4C8B-A1C4-93F653A7646E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665E850C-5A5C-4C8B-A1C4-93F653A7646E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665E850C-5A5C-4C8B-A1C4-93F653A7646E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6A5145-56A9-4D9C-9F32-6E2CB0025A2B}
+	EndGlobalSection
+EndGlobal
